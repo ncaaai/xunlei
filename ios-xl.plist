@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://images.cdn.0594.gzcxld.com/xl.png?d=xzapp.vip</string>
+					<string>xzapp.vip/xla.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://images.cdn.0594.gzcxld.com/xl.png?d=xzapp.vip</string>
+					<string>xzapp.vip/xla.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
